@@ -1,4 +1,4 @@
-###👋 Hi, I’m Gustavo Henrique
+### 👋 Hi, I’m Gustavo Henrique
 ##
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Python, C++ and Competitive Programming
