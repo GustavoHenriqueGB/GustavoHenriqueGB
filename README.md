@@ -1,4 +1,6 @@
 ## 👋 Hi, I’m Gustavo Henrique
+
+- 🔭 I’m currently studying computer engineering at University of Brasília.
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Python, C++ and Competitive Programming
 - 📫 you can contact me at gustavohrqgb@gmail.com
