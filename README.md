@@ -39,6 +39,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GustavoHenriqueGB/GustavoHenriqueGB/output/snake.svg" alt="Snake animation" />
-
 ###
